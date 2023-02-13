@@ -1,0 +1,31 @@
+ 
+[
+    {  
+    "id": 1,  
+    "title": "Autour du climat ",  
+    "content": "Hormis une communauté de climatosceptiques, nul n’ignore désormais que le réchauffement climatique constitue une réalité tangible. On s’accorde aujourd’hui à penser que l’élévation de la température moyenne sur le globe terrestre est due à l’augmentation considérable de l’activité industrielle depuis le siècle dernier et de ses émissions massives de gaz dans l’atmosphère. Dès lors, la question se pose de savoir quelles conséquences cela aura sur la population vivante.",
+    "author":" Laurent Di Menza, mathématicien à l'Université de Reims Champagne-Ardenne" ,
+    "upVotes": 10,
+    "downVotes": 5 
+}, {  
+    "id": 2,  
+    "title": "Focales Afriques",  
+    "content": "Parallèlement à la European Conference on African Studies (ECAS), l’IMAF et LAM organisent AFRICA ACTS : une semaine consacrée aux arts de la performance en Afrique et dans ses diasporas. A l’attention d’un large public, AFRICA ACTS a été conçu comme un parcours à travers Paris et sa proche banlieue. Premier événement en son genre en France, AFRICA ACTS offrira une programmation ambitieuse et novatrice mettant en exergue la singularité et l’originalité du travail d’artistes résolument hors-format. Chorégraphes, femmes et hommes de théâtre, poètes, compositeurs, cinéastes et vidéastes, graffeurs, DJs et VJs venus de multiples horizons se croiseront.   ",
+    "author":" Dominique Malaquais & Caroline Roussy" ,
+    "upVotes": 19,
+    "downVotes": 25  
+}, {  
+    "id": 3,  
+    "title": "Mon Tour de France en fauteuil",  
+    "content": "Petit point d’étape après 1260 kilomètres… et mon arrivée à Toulouse. Le début de mon périple s’est déroulé plus ou moins comme prévu. Le quadrix – c’est-à-dire mon fauteuil- est très maniable, et je me suis familiarisé rapidement avec. Les premières étapes étaient les plus longues, et logiquement les plus fatigantes. En général, je commence une étape vers 10h, un peu plus tard lorsqu’une visite ou une réunion matinale est organisée dans l’université locale. Je prends la route en empruntant le maximum de pistes cyclables. Je fais une pause toutes les deux heures environ, et comme une étape complète me prend entre 6 et 8h, mon arrivée a lieu généralement entre 18h et 20h.",
+    "author":"Khalil Ibrahim Hamzaoui" ,
+    "upVotes": 11,
+    "downVotes": 16   
+}, {  
+    "id": 4,  
+    "title": "Bien(s) des sciences",  
+    "content": "Ces dernières semaines ont été, pour nous, riches en échanges autour des questions alliant sciences, patrimoines et numérique.  Parmi les enjeux mis en avant figurent ceux des corpus -  numérisés ou nativement numériques - de leur conservation, de leur interopérabilité.Si ces questions ont concerné en premier lieu les sciences de l'homme et de la société, il est également ressorti que toutes les disciplines sont concernées. La COP21 est l'occasion de se pencher sur un type d'archives riches en enseignement sur notre environnement passé : les carottes glaciaires.",
+    "author":" Morgane Gibert" ,
+    "upVotes": 10,
+    "downVotes": 8   
+}]  

@@ -1,0 +1,11 @@
+.course-container{
+    max-width: 800px;
+    height: 400px;
+    background-color:blanchedalmond;
+    margin: 40px;
+    padding: 20px;
+    position:relative;
+    border: 2px solid chocolate;
+    font-family: cursive;
+  font-size: 120%;
+}

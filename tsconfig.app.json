@@ -2,14 +2,20 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
     "outDir": "./out-tsc/app",
-    "types": []
+    "module": "commonjs",
+    "types": [],
+    "strictPropertyInitialization":false
+    
   },
   "files": [
     "src/main.ts",
     "src/polyfills.ts"
   ],
   "include": [
-    "src/**/*.d.ts"
+    "src/**/*.d.ts",
+    
   ]
 }
